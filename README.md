@@ -22,8 +22,10 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş basit ama işlevsel bi
 
 ## 🖼️ Arayüzden Görseller
 
-> İsteğe bağlı olarak buraya ekran görüntüsü eklersen çok iyi olur. Örneğin:
-> ![Uygulama Arayüzü](screenshots/main_screen.png)
+> ![image](https://github.com/user-attachments/assets/c088dc57-841f-48da-8ef3-a240231ed9bf)
+
+> ![image](https://github.com/user-attachments/assets/b81eeaad-8fe7-4505-9510-628cfe525903)
+
 
 ## ▶️ Kullanım
 
