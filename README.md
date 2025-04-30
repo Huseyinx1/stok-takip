@@ -18,6 +18,7 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş basit ama işlevsel bi
 
 ## 📁 Dosya Yapısı
 
+![image](https://github.com/user-attachments/assets/e2f015d9-4969-4b9d-bbbe-586d839ad853)
 
 
 ## 🖼️ Arayüzden Görseller
